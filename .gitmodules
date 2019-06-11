@@ -1,0 +1,6 @@
+[submodule "darkflow"]
+	path = darkflow
+	url = git@github.com:thtrieu/darkflow.git
+[submodule "Maix_Toolbox"]
+	path = Maix_Toolbox
+	url = git@github.com:sipeed/Maix_Toolbox.git
